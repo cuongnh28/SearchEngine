@@ -1,0 +1,49 @@
+1. Crawl data.
+2. Tien xu ly. - > [anh, em, toi ...]
+3. Trich xuat dac trung.
+4. Nhan ra thi ra duoc 1 chuoi so -> sxep va in ra titles.
+
+
+
+Input: dat and minh
+1. a and b -> [a b]
+2. anh and em -> [anh em]  -> [a b anh em]
+4 dat cuong quyen.
+-> a, b, anh, em, dat, cuong.
+
+100
+
+
+loving . (data)
+input: love you  -> tuong dong nhau :v
+
+
+
+Vector 100(so doan van) * 4 (so tu moi)
+
+0.1 0.2
+x
+0.1(a) 0 0 0.9(b)
+0 0 2.1 3.4
+.......
+-----------------
+0.2
+1.3
+4.6
+0
+
+0 0 0  0 0 0 0 0.1 0.3
+
+
+-> Max score: tinh theo phuong phap linear kernel
+In ra theo Max Score
+
+trung luon tu moi oke. happy va smile -> vui.
+smile va smiling -> oke
+
+1 doan van ban it nhat 10 trang -> dai. -> cau query cua minh cung phai dai :v
+
+word2vec cac tu ve vector.
+
+
+

@@ -1,0 +1,8 @@
+Xây dựng hệ CSDL lưu trữ và tìm kiếm văn bản.
+1.Hãy xây dựng/sưu tầm một bộ dữ liệu văn bản gồm ít nhất 100 files văn bản khác nhau, mỗi file dài ít nhất 10 trang, các file văn bản có các nội dung về các vấn đề thời sự xã hội, khoa học và đều có cùng định dạng (SV tùy chọn định dạng văn bản).
+2.Hãy tìm hiểu các kỹ thuật xử lý và tìm kiếm văn bản hiện hành.
+3.Xây dựng hệ thống nhận dạng và tìm kiếm văn bản với đầu vào là một đoạn văn bản, đầu ra là 10 files văn bản trong CSDL được xếp thứ tự giảm dần về độ tương đồng nội dung với đoạn văn bản đầu vào. 
+a.Trình bày sơ đồ khối của hệ thống và quy trình thực hiện yêu cầu của đề bài.
+b.Trình bày các thuộc tính được sử dụng để nhận dạng và tìm kiếm văn bản trong hệ thống, cùng các kỹ thuật để trích rút các thuộc tính đó.
+c.Trình bày cách lưu trữ và quản lý các thuộc tính văn bản và cách nhận dạng, tìm kiếm các văn bản trong CSDL dựa trên các thuộc tính đó.
+4.Demo hệ thống và đánh giá kết quả đã đạt được.
